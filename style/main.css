@@ -1,0 +1,34 @@
+body{
+    font: 20px Arial, sans-serif  ;
+}
+
+.quem-somos{
+    background-color: rgba(95, 158, 160, 0.5);
+    color:white;
+}
+
+.margin{
+    padding: 2%;
+}
+
+.parceiros{
+ background: linear-gradient(rgba(95, 158, 160, 0.5),rgba(245, 183, 177, 0.5)100%)  ;
+  color: white;
+}
+
+.parceiros img{
+    margin-top: 10%;
+    border-radius: 25%;
+}
+
+.servicos{
+    background-color: rgba(245, 183, 177, 0.5);
+}
+
+.servicos img{
+    border-radius: 10%;
+}
+
+.row{
+    margin-bottom: 5%;
+}
